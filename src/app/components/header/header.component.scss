@@ -2,4 +2,13 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
+  font-family: "Lucida Handwriting";
+}
+
+#iniciais{
+  font-size: 50px;
+  margin-left: 30px;
+  background: -webkit-linear-gradient(#ff5900, #ff8800);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent
 }
